@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c9154122f09a454690812eb295768f6b',
+  rootNotionPageId: '94ae5e9957324656b7fa608fd2b6927b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Privacy Policy',
-  domain: 'https://www.notion.so/Privacy-Policy-c9154122f09a454690812eb295768f6b',
+  domain: 'https://www.notion.so/Lucky-Ping-Pong-Privacy-Policy-94ae5e9957324656b7fa608fd2b6927b',
   author: 'Leon',
 
   // open graph metadata (optional)
