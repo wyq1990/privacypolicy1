@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Privacy Policy',
   domain: 'https://www.notion.so/Lucky-Turbo-Sphere-Privacy-Policy-c9154122f09a454690812eb295768f6b',
-  author: 'Leon',
+  author: 'Long',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
